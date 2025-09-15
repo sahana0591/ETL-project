@@ -1,0 +1,5 @@
+order_id,customer_id,product,quantity,price,order_date,total_price
+1001,101.0,Apple,2.0,1.5,2025-01-12,3.0
+1003,102.0,Orange,5.0,0.8,2025-02-01,4.0
+1005,104.0,Cherry,10.0,2.0,2025-02-10,20.0
+1006,105.0,Mango,0.0,-1.2,2025-03-01,-0.0
