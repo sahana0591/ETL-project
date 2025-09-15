@@ -1,0 +1,5 @@
+order_id,order_date,customer,product,quantity,price
+A1001,2025-09-01,Acme Corp,Widget,10,9.99
+A1002,2025-09-02,Globex,Gadget,5,19.95
+A1003,2025-09-02,Initech,Sprocket,2,99.5
+A1004,invalid_date,Initrode,Thingamajig,3,12.0
